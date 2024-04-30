@@ -5,5 +5,7 @@ public class EmployeeWage {
         System.out.println("Hello world!");
 
         System.out.println("Hello Tushar");
+
+        System.out.println("Hello Anjali");
     }
 }
